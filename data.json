@@ -1,0 +1,24 @@
+[
+   {
+      "id": 1,
+      "title": "My First Project",
+      "images": [
+         "https://raw.githubusercontent.com/YOUR_USERNAME/analysis-api/main/images/p1-img1.jpg",
+         "https://raw.githubusercontent.com/YOUR_USERNAME/analysis-api/main/images/p1-img2.jpg",
+         "https://raw.githubusercontent.com/YOUR_USERNAME/analysis-api/main/images/p1-img3.jpg"
+      ],
+      "description": "This is a test project",
+      "link": "https://example.com"
+   },
+   {
+      "id": 2,
+      "title": "Second Project",
+      "images": [
+         "https://raw.githubusercontent.com/YOUR_USERNAME/analysis-api/main/images/p1-img1.jpg",
+         "https://raw.githubusercontent.com/YOUR_USERNAME/analysis-api/main/images/p1-img2.jpg",
+         "https://raw.githubusercontent.com/YOUR_USERNAME/analysis-api/main/images/p1-img3.jpg"
+      ],
+      "description": "Another sample project",
+      "link": "https://example.com"
+   }
+]
