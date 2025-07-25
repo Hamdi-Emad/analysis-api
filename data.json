@@ -3,9 +3,9 @@
       "id": 1,
       "title": "My First Project",
       "images": [
-         "https://raw.githubusercontent.com/YOUR_USERNAME/analysis-api/main/images/p1-img1.jpg",
-         "https://raw.githubusercontent.com/YOUR_USERNAME/analysis-api/main/images/p1-img2.jpg",
-         "https://raw.githubusercontent.com/YOUR_USERNAME/analysis-api/main/images/p1-img3.jpg"
+         "https://raw.githubusercontent.com/Hamdi-Emad/analysis-api/refs/heads/main/images/project1/image1.webp",
+         "https://raw.githubusercontent.com/Hamdi-Emad/analysis-api/refs/heads/main/images/project1/image2.png",
+         "https://raw.githubusercontent.com/Hamdi-Emad/analysis-api/refs/heads/main/images/project1/image3.avif"
       ],
       "description": "This is a test project",
       "link": "https://example.com"
@@ -14,9 +14,9 @@
       "id": 2,
       "title": "Second Project",
       "images": [
-         "https://raw.githubusercontent.com/YOUR_USERNAME/analysis-api/main/images/p1-img1.jpg",
-         "https://raw.githubusercontent.com/YOUR_USERNAME/analysis-api/main/images/p1-img2.jpg",
-         "https://raw.githubusercontent.com/YOUR_USERNAME/analysis-api/main/images/p1-img3.jpg"
+         "https://raw.githubusercontent.com/Hamdi-Emad/analysis-api/refs/heads/main/images/project2/image1.jpg",
+         "https://raw.githubusercontent.com/Hamdi-Emad/analysis-api/refs/heads/main/images/project2/image2.jpg",
+         "https://raw.githubusercontent.com/Hamdi-Emad/analysis-api/refs/heads/main/images/project2/image3.jpg"
       ],
       "description": "Another sample project",
       "link": "https://example.com"
