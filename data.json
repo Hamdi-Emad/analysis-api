@@ -2,6 +2,7 @@
    {
       "id": 1,
       "title": "My First Project",
+      "image": "https://raw.githubusercontent.com/Hamdi-Emad/analysis-api/refs/heads/main/images/project1/image1.webp",
       "images": [
          "https://raw.githubusercontent.com/Hamdi-Emad/analysis-api/refs/heads/main/images/project1/image1.webp",
          "https://raw.githubusercontent.com/Hamdi-Emad/analysis-api/refs/heads/main/images/project1/image2.png",
@@ -13,6 +14,7 @@
    {
       "id": 2,
       "title": "Second Project",
+      "image": "https://raw.githubusercontent.com/Hamdi-Emad/analysis-api/refs/heads/main/images/project2/image1.jpg",
       "images": [
          "https://raw.githubusercontent.com/Hamdi-Emad/analysis-api/refs/heads/main/images/project2/image1.jpg",
          "https://raw.githubusercontent.com/Hamdi-Emad/analysis-api/refs/heads/main/images/project2/image2.jpg",
