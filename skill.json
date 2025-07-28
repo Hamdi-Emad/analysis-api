@@ -1,0 +1,62 @@
+[
+   {
+      "name": "Excel",
+      "image": "excel.png",
+      "description": "Microsoft Excel is a powerful spreadsheet tool widely used for data entry, cleaning, and basic analysis.",
+      "type": "Spreadsheet"
+   },
+   {
+      "name": "Python",
+      "image": "python.png",
+      "description": "Python is a popular programming language in data analysis thanks to its rich ecosystem of data libraries.",
+      "type": "Programming Language"
+   },
+   {
+      "name": "Pandas",
+      "image": "pandas.png",
+      "description": "Pandas is a Python library that provides fast, flexible, and expressive data structures for data manipulation and analysis.",
+      "type": "Data Cleaning"
+   },
+   {
+      "name": "NumPy",
+      "image": "numpy.png",
+      "description": "NumPy is a fundamental package for scientific computing in Python, especially for working with arrays and numerical operations.",
+      "type": "Data Cleaning"
+   },
+   {
+      "name": "Power BI",
+      "image": "powerbi.png",
+      "description": "Power BI is a Microsoft business analytics tool that provides interactive visualizations and business intelligence capabilities.",
+      "type": "BI Tool"
+   },
+   {
+      "name": "Tableau",
+      "image": "tableau.png",
+      "description": "Tableau is a powerful data visualization tool that helps create interactive and shareable dashboards.",
+      "type": "BI Tool"
+   },
+   {
+      "name": "SQL",
+      "image": "sql.png",
+      "description": "SQL (Structured Query Language) is used for managing and querying relational databases.",
+      "type": "Database"
+   },
+   {
+      "name": "Jupyter Notebook",
+      "image": "jupyter.png",
+      "description": "Jupyter Notebook is an open-source web application for creating and sharing live code, equations, visualizations, and narrative text.",
+      "type": "IDE/Notebook"
+   },
+   {
+      "name": "Google Sheets",
+      "image": "googlesheets.png",
+      "description": "Google Sheets is a cloud-based spreadsheet application ideal for collaboration and lightweight data analysis.",
+      "type": "Spreadsheet"
+   },
+   {
+      "name": "R",
+      "image": "r.png",
+      "description": "R is a language and environment for statistical computing and graphics, widely used in academia and research.",
+      "type": "Programming Language"
+   }
+]
