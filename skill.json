@@ -3,60 +3,104 @@
       "name": "Excel",
       "image": "excel.png",
       "description": "Microsoft Excel is a powerful spreadsheet tool widely used for data entry, cleaning, and basic analysis.",
-      "type": "Spreadsheet"
+      "type": "Spreadsheet",
+      "details": [
+         "Data Cleaning using formulas",
+         "Pivot Tables & Charts",
+         "Conditional Formatting",
+         "VLOOKUP & XLOOKUP",
+         "Power Query for data transformation"
+      ]
    },
    {
       "name": "Python",
       "image": "python.png",
       "description": "Python is a popular programming language in data analysis thanks to its rich ecosystem of data libraries.",
-      "type": "Programming Language"
-   },
-   {
-      "name": "Pandas",
-      "image": "pandas.png",
-      "description": "Pandas is a Python library that provides fast, flexible, and expressive data structures for data manipulation and analysis.",
-      "type": "Data Cleaning"
-   },
-   {
-      "name": "NumPy",
-      "image": "numpy.png",
-      "description": "NumPy is a fundamental package for scientific computing in Python, especially for working with arrays and numerical operations.",
-      "type": "Data Cleaning"
-   },
-   {
-      "name": "Power BI",
-      "image": "powerbi.png",
-      "description": "Power BI is a Microsoft business analytics tool that provides interactive visualizations and business intelligence capabilities.",
-      "type": "BI Tool"
-   },
-   {
-      "name": "Tableau",
-      "image": "tableau.png",
-      "description": "Tableau is a powerful data visualization tool that helps create interactive and shareable dashboards.",
-      "type": "BI Tool"
+      "type": "Programming Language",
+      "details": [
+         "NumPy & Pandas for data manipulation",
+         "Matplotlib & Seaborn for visualization",
+         "Scikit-learn for machine learning",
+         "Jupyter Notebooks for interactive coding",
+         "BeautifulSoup & Scrapy for web scraping"
+      ]
    },
    {
       "name": "SQL",
       "image": "sql.png",
       "description": "SQL (Structured Query Language) is used for managing and querying relational databases.",
-      "type": "Database"
+      "type": "Database",
+      "details": [
+         "SELECT, JOIN, GROUP BY, HAVING",
+         "Subqueries & CTEs",
+         "Indexing & performance optimization",
+         "Data definition and manipulation",
+         "Working with MySQL, PostgreSQL, SQL Server"
+      ]
+   },
+   {
+      "name": "Power BI",
+      "image": "powerbi.png",
+      "description": "Power BI is a Microsoft business analytics tool that provides interactive visualizations and business intelligence capabilities.",
+      "type": "BI Tool",
+      "details": [
+         "Building interactive dashboards",
+         "Power Query for data transformation",
+         "DAX language for calculated columns",
+         "Real-time data visualization",
+         "Integration with Excel & databases"
+      ]
+   },
+   {
+      "name": "Tableau",
+      "image": "tableau.png",
+      "description": "Tableau is a powerful data visualization tool that helps create interactive and shareable dashboards.",
+      "type": "BI Tool",
+      "details": [
+         "Drag-and-drop dashboard creation",
+         "Calculated fields & LOD expressions",
+         "Interactive filters and parameters",
+         "Data blending and joins",
+         "Integration with SQL & cloud data"
+      ]
    },
    {
       "name": "Jupyter Notebook",
       "image": "jupyter.png",
       "description": "Jupyter Notebook is an open-source web application for creating and sharing live code, equations, visualizations, and narrative text.",
-      "type": "IDE/Notebook"
+      "type": "IDE/Notebook",
+      "details": [
+         "Interactive code execution",
+         "Markdown documentation",
+         "Data visualization inside notebooks",
+         "Integration with Python libraries",
+         "Exporting notebooks as HTML/PDF"
+      ]
    },
    {
-      "name": "Google Sheets",
-      "image": "googlesheets.png",
-      "description": "Google Sheets is a cloud-based spreadsheet application ideal for collaboration and lightweight data analysis.",
-      "type": "Spreadsheet"
+      "name": "Statistics",
+      "image": "statistics.png",
+      "description": "Statistics is the foundation of data analysis, helping you understand data distributions, relationships, and significance.",
+      "type": "Mathematics",
+      "details": [
+         "Descriptive Statistics",
+         "Probability Distributions",
+         "Inferential Statistics",
+         "Correlation & Regression Analysis",
+         "ANOVA and Chi-Square Tests"
+      ]
    },
    {
-      "name": "R",
-      "image": "r.png",
-      "description": "R is a language and environment for statistical computing and graphics, widely used in academia and research.",
-      "type": "Programming Language"
+      "name": "GitHub",
+      "image": "github.png",
+      "description": "GitHub is a platform for version control and collaboration, allowing you to track changes and share your work with others.",
+      "type": "Version Control",
+      "details": [
+         "Uploading and maintaining analysis projects",
+         "Using Git for version control",
+         "Sharing notebooks and dashboards",
+         "Documenting projects with README files",
+         "Collaborating with teams"
+      ]
    }
 ]
