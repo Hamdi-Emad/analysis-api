@@ -13,19 +13,6 @@
       ]
    },
    {
-      "name": "Python",
-      "image": "https://raw.githubusercontent.com/Hamdi-Emad/analysis-api/refs/heads/main/skill-icon/python.svg",
-      "description": "Python is a popular programming language in data analysis thanks to its rich ecosystem of data libraries.",
-      "type": "Programming Language",
-      "details": [
-         "NumPy & Pandas for data manipulation",
-         "Matplotlib & Seaborn for visualization",
-         "Scikit-learn for machine learning",
-         "Jupyter Notebooks for interactive coding",
-         "BeautifulSoup & Scrapy for web scraping"
-      ]
-   },
-   {
       "name": "SQL",
       "image": "https://raw.githubusercontent.com/Hamdi-Emad/analysis-api/refs/heads/main/skill-icon/sql.svg",
       "description": "SQL (Structured Query Language) is used for managing and querying relational databases.",
@@ -39,29 +26,16 @@
       ]
    },
    {
-      "name": "Power BI",
-      "image": "https://raw.githubusercontent.com/Hamdi-Emad/analysis-api/refs/heads/main/skill-icon/power-bi.svg",
-      "description": "Power BI is a Microsoft business analytics tool that provides interactive visualizations and business intelligence capabilities.",
-      "type": "BI Tool",
+      "name": "Python",
+      "image": "https://raw.githubusercontent.com/Hamdi-Emad/analysis-api/refs/heads/main/skill-icon/python.svg",
+      "description": "Python is a popular programming language in data analysis thanks to its rich ecosystem of data libraries.",
+      "type": "Programming Language",
       "details": [
-         "Building interactive dashboards",
-         "Power Query for data transformation",
-         "DAX language for calculated columns",
-         "Real-time data visualization",
-         "Integration with Excel & databases"
-      ]
-   },
-   {
-      "name": "Tableau",
-      "image": "https://raw.githubusercontent.com/Hamdi-Emad/analysis-api/refs/heads/main/skill-icon/tableau.svg",
-      "description": "Tableau is a powerful data visualization tool that helps create interactive and shareable dashboards.",
-      "type": "BI Tool",
-      "details": [
-         "Drag-and-drop dashboard creation",
-         "Calculated fields & LOD expressions",
-         "Interactive filters and parameters",
-         "Data blending and joins",
-         "Integration with SQL & cloud data"
+         "NumPy & Pandas for data manipulation",
+         "Matplotlib & Seaborn for visualization",
+         "Scikit-learn for machine learning",
+         "Jupyter Notebooks for interactive coding",
+         "BeautifulSoup & Scrapy for web scraping"
       ]
    },
    {
@@ -90,6 +64,33 @@
          "ANOVA and Chi-Square Tests"
       ]
    },
+   {
+      "name": "Power BI",
+      "image": "https://raw.githubusercontent.com/Hamdi-Emad/analysis-api/refs/heads/main/skill-icon/power-bi.svg",
+      "description": "Power BI is a Microsoft business analytics tool that provides interactive visualizations and business intelligence capabilities.",
+      "type": "BI Tool",
+      "details": [
+         "Building interactive dashboards",
+         "Power Query for data transformation",
+         "DAX language for calculated columns",
+         "Real-time data visualization",
+         "Integration with Excel & databases"
+      ]
+   },
+   {
+      "name": "Tableau",
+      "image": "https://raw.githubusercontent.com/Hamdi-Emad/analysis-api/refs/heads/main/skill-icon/tableau.svg",
+      "description": "Tableau is a powerful data visualization tool that helps create interactive and shareable dashboards.",
+      "type": "BI Tool",
+      "details": [
+         "Drag-and-drop dashboard creation",
+         "Calculated fields & LOD expressions",
+         "Interactive filters and parameters",
+         "Data blending and joins",
+         "Integration with SQL & cloud data"
+      ]
+   },
+
    {
       "name": "GitHub",
       "image": "https://raw.githubusercontent.com/Hamdi-Emad/analysis-api/refs/heads/main/skill-icon/github.svg",
