@@ -14,7 +14,7 @@
    },
    {
       "name": "Python",
-      "image": "python.png",
+      "image": "https://raw.githubusercontent.com/Hamdi-Emad/analysis-api/refs/heads/main/skill-icon/python.svg",
       "description": "Python is a popular programming language in data analysis thanks to its rich ecosystem of data libraries.",
       "type": "Programming Language",
       "details": [
