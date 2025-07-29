@@ -1,7 +1,7 @@
 [
    {
       "name": "Excel",
-      "image": "excel.png",
+      "image": "https://raw.githubusercontent.com/Hamdi-Emad/analysis-api/refs/heads/main/skill-icon/excel.svg",
       "description": "Microsoft Excel is a powerful spreadsheet tool widely used for data entry, cleaning, and basic analysis.",
       "type": "Spreadsheet",
       "details": [
@@ -27,7 +27,7 @@
    },
    {
       "name": "SQL",
-      "image": "sql.png",
+      "image": "https://raw.githubusercontent.com/Hamdi-Emad/analysis-api/refs/heads/main/skill-icon/sql.svg",
       "description": "SQL (Structured Query Language) is used for managing and querying relational databases.",
       "type": "Database",
       "details": [
@@ -40,7 +40,7 @@
    },
    {
       "name": "Power BI",
-      "image": "powerbi.png",
+      "image": "https://raw.githubusercontent.com/Hamdi-Emad/analysis-api/refs/heads/main/skill-icon/power-bi.svg",
       "description": "Power BI is a Microsoft business analytics tool that provides interactive visualizations and business intelligence capabilities.",
       "type": "BI Tool",
       "details": [
@@ -53,7 +53,7 @@
    },
    {
       "name": "Tableau",
-      "image": "tableau.png",
+      "image": "https://raw.githubusercontent.com/Hamdi-Emad/analysis-api/refs/heads/main/skill-icon/tableau.svg",
       "description": "Tableau is a powerful data visualization tool that helps create interactive and shareable dashboards.",
       "type": "BI Tool",
       "details": [
@@ -66,7 +66,7 @@
    },
    {
       "name": "Jupyter Notebook",
-      "image": "jupyter.png",
+      "image": "https://raw.githubusercontent.com/Hamdi-Emad/analysis-api/refs/heads/main/skill-icon/jupyter.svg",
       "description": "Jupyter Notebook is an open-source web application for creating and sharing live code, equations, visualizations, and narrative text.",
       "type": "IDE/Notebook",
       "details": [
@@ -79,7 +79,7 @@
    },
    {
       "name": "Statistics",
-      "image": "statistics.png",
+      "image": "https://raw.githubusercontent.com/Hamdi-Emad/analysis-api/refs/heads/main/skill-icon/statistics.svg",
       "description": "Statistics is the foundation of data analysis, helping you understand data distributions, relationships, and significance.",
       "type": "Mathematics",
       "details": [
@@ -92,7 +92,7 @@
    },
    {
       "name": "GitHub",
-      "image": "github.png",
+      "image": "https://raw.githubusercontent.com/Hamdi-Emad/analysis-api/refs/heads/main/skill-icon/github.svg",
       "description": "GitHub is a platform for version control and collaboration, allowing you to track changes and share your work with others.",
       "type": "Version Control",
       "details": [
