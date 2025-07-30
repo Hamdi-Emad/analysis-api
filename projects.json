@@ -1,7 +1,7 @@
 [
    {
       "id": 1,
-      "title": "My First Project",
+      "title": "Market Insights Dashboard",
       "image": "https://raw.githubusercontent.com/Hamdi-Emad/analysis-api/refs/heads/main/images/project1/image1.webp",
       "images": [
          "https://raw.githubusercontent.com/Hamdi-Emad/analysis-api/refs/heads/main/images/project1/image1.webp",
@@ -9,11 +9,12 @@
          "https://raw.githubusercontent.com/Hamdi-Emad/analysis-api/refs/heads/main/images/project1/image3.avif"
       ],
       "description": "This is a test project",
-      "link": "https://example.com"
+      "link": "https://example.com",
+      "tools": ["MLxtend", "Python", "Pandas", "Jupyter Notebook"]
    },
    {
       "id": 2,
-      "title": "Second Project",
+      "title": "Sales Trend Analyzer",
       "image": "https://raw.githubusercontent.com/Hamdi-Emad/analysis-api/refs/heads/main/images/project2/image1.jpg",
       "images": [
          "https://raw.githubusercontent.com/Hamdi-Emad/analysis-api/refs/heads/main/images/project2/image1.jpg",
@@ -21,11 +22,12 @@
          "https://raw.githubusercontent.com/Hamdi-Emad/analysis-api/refs/heads/main/images/project2/image3.jpg"
       ],
       "description": "Another sample project",
-      "link": "https://example.com"
+      "link": "https://example.com",
+      "tools": ["MLxtend", "Python", "Pandas", "Jupyter Notebook"]
    },
    {
       "id": 3,
-      "title": "Second Project",
+      "title": "Customer Segmentation Tool",
       "image": "https://raw.githubusercontent.com/Hamdi-Emad/analysis-api/refs/heads/main/images/project2/image1.jpg",
       "images": [
          "https://raw.githubusercontent.com/Hamdi-Emad/analysis-api/refs/heads/main/images/project2/image1.jpg",
@@ -33,11 +35,12 @@
          "https://raw.githubusercontent.com/Hamdi-Emad/analysis-api/refs/heads/main/images/project2/image3.jpg"
       ],
       "description": "Another sample project",
-      "link": "https://example.com"
+      "link": "https://example.com",
+      "tools": ["MLxtend", "Python", "Pandas", "Jupyter Notebook"]
    },
    {
       "id": 4,
-      "title": "Second Project",
+      "title": "Retail Performance Monitor",
       "image": "https://raw.githubusercontent.com/Hamdi-Emad/analysis-api/refs/heads/main/images/project2/image1.jpg",
       "images": [
          "https://raw.githubusercontent.com/Hamdi-Emad/analysis-api/refs/heads/main/images/project2/image1.jpg",
@@ -45,11 +48,12 @@
          "https://raw.githubusercontent.com/Hamdi-Emad/analysis-api/refs/heads/main/images/project2/image3.jpg"
       ],
       "description": "Another sample project",
-      "link": "https://example.com"
+      "link": "https://example.com",
+      "tools": ["MLxtend", "Python", "Pandas", "Jupyter Notebook"]
    },
    {
       "id": 5,
-      "title": "Second Project",
+      "title": "Product Demand Predictor",
       "image": "https://raw.githubusercontent.com/Hamdi-Emad/analysis-api/refs/heads/main/images/project2/image1.jpg",
       "images": [
          "https://raw.githubusercontent.com/Hamdi-Emad/analysis-api/refs/heads/main/images/project2/image1.jpg",
@@ -57,11 +61,12 @@
          "https://raw.githubusercontent.com/Hamdi-Emad/analysis-api/refs/heads/main/images/project2/image3.jpg"
       ],
       "description": "Another sample project",
-      "link": "https://example.com"
+      "link": "https://example.com",
+      "tools": ["MLxtend", "Python", "Pandas", "Jupyter Notebook"]
    },
    {
       "id": 6,
-      "title": "Second Project",
+      "title": "Financial Report Visualizer",
       "image": "https://raw.githubusercontent.com/Hamdi-Emad/analysis-api/refs/heads/main/images/project2/image1.jpg",
       "images": [
          "https://raw.githubusercontent.com/Hamdi-Emad/analysis-api/refs/heads/main/images/project2/image1.jpg",
@@ -69,11 +74,12 @@
          "https://raw.githubusercontent.com/Hamdi-Emad/analysis-api/refs/heads/main/images/project2/image3.jpg"
       ],
       "description": "Another sample project",
-      "link": "https://example.com"
+      "link": "https://example.com",
+      "tools": ["MLxtend", "Python", "Pandas", "Jupyter Notebook"]
    },
    {
       "id": 7,
-      "title": "Second Project",
+      "title": "Real-Time Stock Tracker",
       "image": "https://raw.githubusercontent.com/Hamdi-Emad/analysis-api/refs/heads/main/images/project2/image1.jpg",
       "images": [
          "https://raw.githubusercontent.com/Hamdi-Emad/analysis-api/refs/heads/main/images/project2/image1.jpg",
@@ -81,11 +87,12 @@
          "https://raw.githubusercontent.com/Hamdi-Emad/analysis-api/refs/heads/main/images/project2/image3.jpg"
       ],
       "description": "Another sample project",
-      "link": "https://example.com"
+      "link": "https://example.com",
+      "tools": ["MLxtend", "Python", "Pandas", "Jupyter Notebook"]
    },
    {
       "id": 8,
-      "title": "Second Project",
+      "title": "Social Media Metrics Insight",
       "image": "https://raw.githubusercontent.com/Hamdi-Emad/analysis-api/refs/heads/main/images/project2/image1.jpg",
       "images": [
          "https://raw.githubusercontent.com/Hamdi-Emad/analysis-api/refs/heads/main/images/project2/image1.jpg",
@@ -93,11 +100,12 @@
          "https://raw.githubusercontent.com/Hamdi-Emad/analysis-api/refs/heads/main/images/project2/image3.jpg"
       ],
       "description": "Another sample project",
-      "link": "https://example.com"
+      "link": "https://example.com",
+      "tools": ["MLxtend", "Python", "Pandas", "Jupyter Notebook"]
    },
    {
       "id": 9,
-      "title": "Second Project",
+      "title": "E-Commerce Growth Analyzer",
       "image": "https://raw.githubusercontent.com/Hamdi-Emad/analysis-api/refs/heads/main/images/project2/image1.jpg",
       "images": [
          "https://raw.githubusercontent.com/Hamdi-Emad/analysis-api/refs/heads/main/images/project2/image1.jpg",
@@ -105,11 +113,12 @@
          "https://raw.githubusercontent.com/Hamdi-Emad/analysis-api/refs/heads/main/images/project2/image3.jpg"
       ],
       "description": "Another sample project",
-      "link": "https://example.com"
+      "link": "https://example.com",
+      "tools": ["MLxtend", "Python", "Pandas", "Jupyter Notebook"]
    },
    {
       "id": 10,
-      "title": "Second Project",
+      "title": "Weather Pattern Explorer",
       "image": "https://raw.githubusercontent.com/Hamdi-Emad/analysis-api/refs/heads/main/images/project2/image1.jpg",
       "images": [
          "https://raw.githubusercontent.com/Hamdi-Emad/analysis-api/refs/heads/main/images/project2/image1.jpg",
@@ -117,11 +126,12 @@
          "https://raw.githubusercontent.com/Hamdi-Emad/analysis-api/refs/heads/main/images/project2/image3.jpg"
       ],
       "description": "Another sample project",
-      "link": "https://example.com"
+      "link": "https://example.com",
+      "tools": ["MLxtend", "Python", "Pandas", "Jupyter Notebook"]
    },
    {
       "id": 11,
-      "title": "Second Project",
+      "title": "Healthcare Data Dashboard",
       "image": "https://raw.githubusercontent.com/Hamdi-Emad/analysis-api/refs/heads/main/images/project2/image1.jpg",
       "images": [
          "https://raw.githubusercontent.com/Hamdi-Emad/analysis-api/refs/heads/main/images/project2/image1.jpg",
@@ -129,11 +139,12 @@
          "https://raw.githubusercontent.com/Hamdi-Emad/analysis-api/refs/heads/main/images/project2/image3.jpg"
       ],
       "description": "Another sample project",
-      "link": "https://example.com"
+      "link": "https://example.com",
+      "tools": ["MLxtend", "Python", "Pandas", "Jupyter Notebook"]
    },
    {
       "id": 12,
-      "title": "Second Project",
+      "title": "Energy Consumption Tracker",
       "image": "https://raw.githubusercontent.com/Hamdi-Emad/analysis-api/refs/heads/main/images/project2/image1.jpg",
       "images": [
          "https://raw.githubusercontent.com/Hamdi-Emad/analysis-api/refs/heads/main/images/project2/image1.jpg",
@@ -141,11 +152,12 @@
          "https://raw.githubusercontent.com/Hamdi-Emad/analysis-api/refs/heads/main/images/project2/image3.jpg"
       ],
       "description": "Another sample project",
-      "link": "https://example.com"
+      "link": "https://example.com",
+      "tools": ["MLxtend", "Python", "Pandas", "Jupyter Notebook"]
    },
    {
       "id": 13,
-      "title": "Second Project",
+      "title": "Traffic Flow Analysis",
       "image": "https://raw.githubusercontent.com/Hamdi-Emad/analysis-api/refs/heads/main/images/project2/image1.jpg",
       "images": [
          "https://raw.githubusercontent.com/Hamdi-Emad/analysis-api/refs/heads/main/images/project2/image1.jpg",
@@ -153,11 +165,12 @@
          "https://raw.githubusercontent.com/Hamdi-Emad/analysis-api/refs/heads/main/images/project2/image3.jpg"
       ],
       "description": "Another sample project",
-      "link": "https://example.com"
+      "link": "https://example.com",
+      "tools": ["MLxtend", "Python", "Pandas", "Jupyter Notebook"]
    },
    {
       "id": 14,
-      "title": "Second Project",
+      "title": "Education Outcome Visualizer",
       "image": "https://raw.githubusercontent.com/Hamdi-Emad/analysis-api/refs/heads/main/images/project2/image1.jpg",
       "images": [
          "https://raw.githubusercontent.com/Hamdi-Emad/analysis-api/refs/heads/main/images/project2/image1.jpg",
@@ -165,11 +178,12 @@
          "https://raw.githubusercontent.com/Hamdi-Emad/analysis-api/refs/heads/main/images/project2/image3.jpg"
       ],
       "description": "Another sample project",
-      "link": "https://example.com"
+      "link": "https://example.com",
+      "tools": ["MLxtend", "Python", "Pandas", "Jupyter Notebook"]
    },
    {
       "id": 15,
-      "title": "Second Project",
+      "title": "Crime Rate Mapping",
       "image": "https://raw.githubusercontent.com/Hamdi-Emad/analysis-api/refs/heads/main/images/project2/image1.jpg",
       "images": [
          "https://raw.githubusercontent.com/Hamdi-Emad/analysis-api/refs/heads/main/images/project2/image1.jpg",
@@ -177,11 +191,12 @@
          "https://raw.githubusercontent.com/Hamdi-Emad/analysis-api/refs/heads/main/images/project2/image3.jpg"
       ],
       "description": "Another sample project",
-      "link": "https://example.com"
+      "link": "https://example.com",
+      "tools": ["MLxtend", "Python", "Pandas", "Jupyter Notebook"]
    },
    {
       "id": 16,
-      "title": "Second Project",
+      "title": "Movie Ratings Insights",
       "image": "https://raw.githubusercontent.com/Hamdi-Emad/analysis-api/refs/heads/main/images/project2/image1.jpg",
       "images": [
          "https://raw.githubusercontent.com/Hamdi-Emad/analysis-api/refs/heads/main/images/project2/image1.jpg",
@@ -189,11 +204,12 @@
          "https://raw.githubusercontent.com/Hamdi-Emad/analysis-api/refs/heads/main/images/project2/image3.jpg"
       ],
       "description": "Another sample project",
-      "link": "https://example.com"
+      "link": "https://example.com",
+      "tools": ["MLxtend", "Python", "Pandas", "Jupyter Notebook"]
    },
    {
       "id": 17,
-      "title": "Second Project",
+      "title": "Employee Productivity Monitor",
       "image": "https://raw.githubusercontent.com/Hamdi-Emad/analysis-api/refs/heads/main/images/project2/image1.jpg",
       "images": [
          "https://raw.githubusercontent.com/Hamdi-Emad/analysis-api/refs/heads/main/images/project2/image1.jpg",
@@ -201,11 +217,12 @@
          "https://raw.githubusercontent.com/Hamdi-Emad/analysis-api/refs/heads/main/images/project2/image3.jpg"
       ],
       "description": "Another sample project",
-      "link": "https://example.com"
+      "link": "https://example.com",
+      "tools": ["MLxtend", "Python", "Pandas", "Jupyter Notebook"]
    },
    {
       "id": 18,
-      "title": "Second Project",
+      "title": "Air Quality Dashboard",
       "image": "https://raw.githubusercontent.com/Hamdi-Emad/analysis-api/refs/heads/main/images/project2/image1.jpg",
       "images": [
          "https://raw.githubusercontent.com/Hamdi-Emad/analysis-api/refs/heads/main/images/project2/image1.jpg",
@@ -213,11 +230,12 @@
          "https://raw.githubusercontent.com/Hamdi-Emad/analysis-api/refs/heads/main/images/project2/image3.jpg"
       ],
       "description": "Another sample project",
-      "link": "https://example.com"
+      "link": "https://example.com",
+      "tools": ["MLxtend", "Python", "Pandas", "Jupyter Notebook"]
    },
    {
       "id": 19,
-      "title": "Second Project",
+      "title": "Tourism Trend Analyzer",
       "image": "https://raw.githubusercontent.com/Hamdi-Emad/analysis-api/refs/heads/main/images/project2/image1.jpg",
       "images": [
          "https://raw.githubusercontent.com/Hamdi-Emad/analysis-api/refs/heads/main/images/project2/image1.jpg",
@@ -225,11 +243,12 @@
          "https://raw.githubusercontent.com/Hamdi-Emad/analysis-api/refs/heads/main/images/project2/image3.jpg"
       ],
       "description": "Another sample project",
-      "link": "https://example.com"
+      "link": "https://example.com",
+      "tools": ["MLxtend", "Python", "Pandas", "Jupyter Notebook"]
    },
    {
       "id": 20,
-      "title": "Second Project",
+      "title": "Startup Investment Insights",
       "image": "https://raw.githubusercontent.com/Hamdi-Emad/analysis-api/refs/heads/main/images/project2/image1.jpg",
       "images": [
          "https://raw.githubusercontent.com/Hamdi-Emad/analysis-api/refs/heads/main/images/project2/image1.jpg",
@@ -237,6 +256,7 @@
          "https://raw.githubusercontent.com/Hamdi-Emad/analysis-api/refs/heads/main/images/project2/image3.jpg"
       ],
       "description": "Another sample project",
-      "link": "https://example.com"
+      "link": "https://example.com",
+      "tools": ["MLxtend", "Python", "Pandas", "Jupyter Notebook"]
    }
 ]
