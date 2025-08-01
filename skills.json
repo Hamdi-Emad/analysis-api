@@ -18,11 +18,11 @@
       "description": "SQL (Structured Query Language) is used for managing and querying relational databases.",
       "type": "Database",
       "details": [
-         "SELECT, JOIN, GROUP BY, HAVING",
-         "Subqueries & CTEs",
-         "Indexing & performance optimization",
-         "Data definition and manipulation",
-         "Working with MySQL, PostgreSQL, SQL Server"
+         "Complex queries for data extraction & analysis",
+         "JOINs & aggregations across multiple tables",
+         "Window functions for advanced analytics",
+         "Date & time functions for time-based insights",
+         "DML & DDL for managing analytical datasets"
       ]
    },
    {

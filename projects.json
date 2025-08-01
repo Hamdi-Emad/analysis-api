@@ -11,7 +11,23 @@
       "description": "A comprehensive and interactive dashboard designed to provide deep insights into key market trends, competitor positioning, and economic indicators. It helps decision-makers monitor performance and adjust strategies based on real-time data.",
       "link": "https://example.com",
       "tools": ["MLxtend", "Python", "Pandas", "Jupyter Notebook"],
-      "githubLink": "https://example.com"
+      "links": [
+         {
+            "linkTitle": "Kaggle",
+            "link": "Link",
+            "linkLogo": "Logo"
+         },
+         {
+            "linkTitle": "Maven",
+            "link": "Link",
+            "linkLogo": "Logo"
+         },
+         {
+            "linkTitle": "Github",
+            "link": "Link",
+            "linkLogo": "Logo"
+         }
+      ]
    },
    {
       "id": 2,
@@ -25,7 +41,23 @@
       "description": "A comprehensive and interactive dashboard designed to provide deep insights into key market trends, competitor positioning, and economic indicators. It helps decision-makers monitor performance and adjust strategies based on real-time data.",
       "link": "https://example.com",
       "tools": ["MLxtend", "Python", "Pandas", "Jupyter Notebook"],
-      "githubLink": "https://example.com"
+      "links": [
+         {
+            "linkTitle": "Kaggle",
+            "link": "Link",
+            "linkLogo": "Logo"
+         },
+         {
+            "linkTitle": "Maven",
+            "link": "Link",
+            "linkLogo": "Logo"
+         },
+         {
+            "linkTitle": "Github",
+            "link": "Link",
+            "linkLogo": "Logo"
+         }
+      ]
    },
    {
       "id": 3,
@@ -39,7 +71,23 @@
       "description": "A comprehensive and interactive dashboard designed to provide deep insights into key market trends, competitor positioning, and economic indicators. It helps decision-makers monitor performance and adjust strategies based on real-time data.",
       "link": "https://example.com",
       "tools": ["MLxtend", "Python", "Pandas", "Jupyter Notebook"],
-      "githubLink": "https://example.com"
+      "links": [
+         {
+            "linkTitle": "Kaggle",
+            "link": "Link",
+            "linkLogo": "Logo"
+         },
+         {
+            "linkTitle": "Maven",
+            "link": "Link",
+            "linkLogo": "Logo"
+         },
+         {
+            "linkTitle": "Github",
+            "link": "Link",
+            "linkLogo": "Logo"
+         }
+      ]
    },
    {
       "id": 4,
@@ -53,7 +101,23 @@
       "description": "A comprehensive and interactive dashboard designed to provide deep insights into key market trends, competitor positioning, and economic indicators. It helps decision-makers monitor performance and adjust strategies based on real-time data.",
       "link": "https://example.com",
       "tools": ["MLxtend", "Python", "Pandas", "Jupyter Notebook"],
-      "githubLink": "https://example.com"
+      "links": [
+         {
+            "linkTitle": "Kaggle",
+            "link": "Link",
+            "linkLogo": "Logo"
+         },
+         {
+            "linkTitle": "Maven",
+            "link": "Link",
+            "linkLogo": "Logo"
+         },
+         {
+            "linkTitle": "Github",
+            "link": "Link",
+            "linkLogo": "Logo"
+         }
+      ]
    },
    {
       "id": 5,
@@ -67,7 +131,23 @@
       "description": "A comprehensive and interactive dashboard designed to provide deep insights into key market trends, competitor positioning, and economic indicators. It helps decision-makers monitor performance and adjust strategies based on real-time data.",
       "link": "https://example.com",
       "tools": ["MLxtend", "Python", "Pandas", "Jupyter Notebook"],
-      "githubLink": "https://example.com"
+      "links": [
+         {
+            "linkTitle": "Kaggle",
+            "link": "Link",
+            "linkLogo": "Logo"
+         },
+         {
+            "linkTitle": "Maven",
+            "link": "Link",
+            "linkLogo": "Logo"
+         },
+         {
+            "linkTitle": "Github",
+            "link": "Link",
+            "linkLogo": "Logo"
+         }
+      ]
    },
    {
       "id": 6,
@@ -81,7 +161,23 @@
       "description": "A comprehensive and interactive dashboard designed to provide deep insights into key market trends, competitor positioning, and economic indicators. It helps decision-makers monitor performance and adjust strategies based on real-time data.",
       "link": "https://example.com",
       "tools": ["MLxtend", "Python", "Pandas", "Jupyter Notebook"],
-      "githubLink": "https://example.com"
+      "links": [
+         {
+            "linkTitle": "Kaggle",
+            "link": "Link",
+            "linkLogo": "Logo"
+         },
+         {
+            "linkTitle": "Maven",
+            "link": "Link",
+            "linkLogo": "Logo"
+         },
+         {
+            "linkTitle": "Github",
+            "link": "Link",
+            "linkLogo": "Logo"
+         }
+      ]
    },
    {
       "id": 7,
@@ -95,7 +191,23 @@
       "description": "A comprehensive and interactive dashboard designed to provide deep insights into key market trends, competitor positioning, and economic indicators. It helps decision-makers monitor performance and adjust strategies based on real-time data.",
       "link": "https://example.com",
       "tools": ["MLxtend", "Python", "Pandas", "Jupyter Notebook"],
-      "githubLink": "https://example.com"
+      "links": [
+         {
+            "linkTitle": "Kaggle",
+            "link": "Link",
+            "linkLogo": "Logo"
+         },
+         {
+            "linkTitle": "Maven",
+            "link": "Link",
+            "linkLogo": "Logo"
+         },
+         {
+            "linkTitle": "Github",
+            "link": "Link",
+            "linkLogo": "Logo"
+         }
+      ]
    },
    {
       "id": 8,
@@ -109,7 +221,23 @@
       "description": "A comprehensive and interactive dashboard designed to provide deep insights into key market trends, competitor positioning, and economic indicators. It helps decision-makers monitor performance and adjust strategies based on real-time data.",
       "link": "https://example.com",
       "tools": ["MLxtend", "Python", "Pandas", "Jupyter Notebook"],
-      "githubLink": "https://example.com"
+      "links": [
+         {
+            "linkTitle": "Kaggle",
+            "link": "Link",
+            "linkLogo": "Logo"
+         },
+         {
+            "linkTitle": "Maven",
+            "link": "Link",
+            "linkLogo": "Logo"
+         },
+         {
+            "linkTitle": "Github",
+            "link": "Link",
+            "linkLogo": "Logo"
+         }
+      ]
    },
    {
       "id": 9,
@@ -123,7 +251,23 @@
       "description": "A comprehensive and interactive dashboard designed to provide deep insights into key market trends, competitor positioning, and economic indicators. It helps decision-makers monitor performance and adjust strategies based on real-time data.",
       "link": "https://example.com",
       "tools": ["MLxtend", "Python", "Pandas", "Jupyter Notebook"],
-      "githubLink": "https://example.com"
+      "links": [
+         {
+            "linkTitle": "Kaggle",
+            "link": "Link",
+            "linkLogo": "Logo"
+         },
+         {
+            "linkTitle": "Maven",
+            "link": "Link",
+            "linkLogo": "Logo"
+         },
+         {
+            "linkTitle": "Github",
+            "link": "Link",
+            "linkLogo": "Logo"
+         }
+      ]
    },
    {
       "id": 10,
@@ -137,7 +281,23 @@
       "description": "A comprehensive and interactive dashboard designed to provide deep insights into key market trends, competitor positioning, and economic indicators. It helps decision-makers monitor performance and adjust strategies based on real-time data.",
       "link": "https://example.com",
       "tools": ["MLxtend", "Python", "Pandas", "Jupyter Notebook"],
-      "githubLink": "https://example.com"
+      "links": [
+         {
+            "linkTitle": "Kaggle",
+            "link": "Link",
+            "linkLogo": "Logo"
+         },
+         {
+            "linkTitle": "Maven",
+            "link": "Link",
+            "linkLogo": "Logo"
+         },
+         {
+            "linkTitle": "Github",
+            "link": "Link",
+            "linkLogo": "Logo"
+         }
+      ]
    },
    {
       "id": 11,
@@ -151,7 +311,23 @@
       "description": "A comprehensive and interactive dashboard designed to provide deep insights into key market trends, competitor positioning, and economic indicators. It helps decision-makers monitor performance and adjust strategies based on real-time data.",
       "link": "https://example.com",
       "tools": ["MLxtend", "Python", "Pandas", "Jupyter Notebook"],
-      "githubLink": "https://example.com"
+      "links": [
+         {
+            "linkTitle": "Kaggle",
+            "link": "Link",
+            "linkLogo": "Logo"
+         },
+         {
+            "linkTitle": "Maven",
+            "link": "Link",
+            "linkLogo": "Logo"
+         },
+         {
+            "linkTitle": "Github",
+            "link": "Link",
+            "linkLogo": "Logo"
+         }
+      ]
    },
    {
       "id": 12,
@@ -165,7 +341,23 @@
       "description": "A comprehensive and interactive dashboard designed to provide deep insights into key market trends, competitor positioning, and economic indicators. It helps decision-makers monitor performance and adjust strategies based on real-time data.",
       "link": "https://example.com",
       "tools": ["MLxtend", "Python", "Pandas", "Jupyter Notebook"],
-      "githubLink": "https://example.com"
+      "links": [
+         {
+            "linkTitle": "Kaggle",
+            "link": "Link",
+            "linkLogo": "Logo"
+         },
+         {
+            "linkTitle": "Maven",
+            "link": "Link",
+            "linkLogo": "Logo"
+         },
+         {
+            "linkTitle": "Github",
+            "link": "Link",
+            "linkLogo": "Logo"
+         }
+      ]
    },
    {
       "id": 13,
@@ -179,7 +371,23 @@
       "description": "A comprehensive and interactive dashboard designed to provide deep insights into key market trends, competitor positioning, and economic indicators. It helps decision-makers monitor performance and adjust strategies based on real-time data.",
       "link": "https://example.com",
       "tools": ["MLxtend", "Python", "Pandas", "Jupyter Notebook"],
-      "githubLink": "https://example.com"
+      "links": [
+         {
+            "linkTitle": "Kaggle",
+            "link": "Link",
+            "linkLogo": "Logo"
+         },
+         {
+            "linkTitle": "Maven",
+            "link": "Link",
+            "linkLogo": "Logo"
+         },
+         {
+            "linkTitle": "Github",
+            "link": "Link",
+            "linkLogo": "Logo"
+         }
+      ]
    },
    {
       "id": 14,
@@ -193,7 +401,23 @@
       "description": "A comprehensive and interactive dashboard designed to provide deep insights into key market trends, competitor positioning, and economic indicators. It helps decision-makers monitor performance and adjust strategies based on real-time data.",
       "link": "https://example.com",
       "tools": ["MLxtend", "Python", "Pandas", "Jupyter Notebook"],
-      "githubLink": "https://example.com"
+      "links": [
+         {
+            "linkTitle": "Kaggle",
+            "link": "Link",
+            "linkLogo": "Logo"
+         },
+         {
+            "linkTitle": "Maven",
+            "link": "Link",
+            "linkLogo": "Logo"
+         },
+         {
+            "linkTitle": "Github",
+            "link": "Link",
+            "linkLogo": "Logo"
+         }
+      ]
    },
    {
       "id": 15,
@@ -207,7 +431,23 @@
       "description": "A comprehensive and interactive dashboard designed to provide deep insights into key market trends, competitor positioning, and economic indicators. It helps decision-makers monitor performance and adjust strategies based on real-time data.",
       "link": "https://example.com",
       "tools": ["MLxtend", "Python", "Pandas", "Jupyter Notebook"],
-      "githubLink": "https://example.com"
+      "links": [
+         {
+            "linkTitle": "Kaggle",
+            "link": "Link",
+            "linkLogo": "Logo"
+         },
+         {
+            "linkTitle": "Maven",
+            "link": "Link",
+            "linkLogo": "Logo"
+         },
+         {
+            "linkTitle": "Github",
+            "link": "Link",
+            "linkLogo": "Logo"
+         }
+      ]
    },
    {
       "id": 16,
@@ -221,7 +461,23 @@
       "description": "A comprehensive and interactive dashboard designed to provide deep insights into key market trends, competitor positioning, and economic indicators. It helps decision-makers monitor performance and adjust strategies based on real-time data.",
       "link": "https://example.com",
       "tools": ["MLxtend", "Python", "Pandas", "Jupyter Notebook"],
-      "githubLink": "https://example.com"
+      "links": [
+         {
+            "linkTitle": "Kaggle",
+            "link": "Link",
+            "linkLogo": "Logo"
+         },
+         {
+            "linkTitle": "Maven",
+            "link": "Link",
+            "linkLogo": "Logo"
+         },
+         {
+            "linkTitle": "Github",
+            "link": "Link",
+            "linkLogo": "Logo"
+         }
+      ]
    },
    {
       "id": 17,
@@ -235,7 +491,23 @@
       "description": "A comprehensive and interactive dashboard designed to provide deep insights into key market trends, competitor positioning, and economic indicators. It helps decision-makers monitor performance and adjust strategies based on real-time data.",
       "link": "https://example.com",
       "tools": ["MLxtend", "Python", "Pandas", "Jupyter Notebook"],
-      "githubLink": "https://example.com"
+      "links": [
+         {
+            "linkTitle": "Kaggle",
+            "link": "Link",
+            "linkLogo": "Logo"
+         },
+         {
+            "linkTitle": "Maven",
+            "link": "Link",
+            "linkLogo": "Logo"
+         },
+         {
+            "linkTitle": "Github",
+            "link": "Link",
+            "linkLogo": "Logo"
+         }
+      ]
    },
    {
       "id": 18,
@@ -249,7 +521,23 @@
       "description": "A comprehensive and interactive dashboard designed to provide deep insights into key market trends, competitor positioning, and economic indicators. It helps decision-makers monitor performance and adjust strategies based on real-time data.",
       "link": "https://example.com",
       "tools": ["MLxtend", "Python", "Pandas", "Jupyter Notebook"],
-      "githubLink": "https://example.com"
+      "links": [
+         {
+            "linkTitle": "Kaggle",
+            "link": "Link",
+            "linkLogo": "Logo"
+         },
+         {
+            "linkTitle": "Maven",
+            "link": "Link",
+            "linkLogo": "Logo"
+         },
+         {
+            "linkTitle": "Github",
+            "link": "Link",
+            "linkLogo": "Logo"
+         }
+      ]
    },
    {
       "id": 19,
@@ -263,7 +551,23 @@
       "description": "A comprehensive and interactive dashboard designed to provide deep insights into key market trends, competitor positioning, and economic indicators. It helps decision-makers monitor performance and adjust strategies based on real-time data.",
       "link": "https://example.com",
       "tools": ["MLxtend", "Python", "Pandas", "Jupyter Notebook"],
-      "githubLink": "https://example.com"
+      "links": [
+         {
+            "linkTitle": "Kaggle",
+            "link": "Link",
+            "linkLogo": "Logo"
+         },
+         {
+            "linkTitle": "Maven",
+            "link": "Link",
+            "linkLogo": "Logo"
+         },
+         {
+            "linkTitle": "Github",
+            "link": "Link",
+            "linkLogo": "Logo"
+         }
+      ]
    },
    {
       "id": 20,
@@ -277,6 +581,23 @@
       "description": "A comprehensive and interactive dashboard designed to provide deep insights into key market trends, competitor positioning, and economic indicators. It helps decision-makers monitor performance and adjust strategies based on real-time data.",
       "link": "https://example.com",
       "tools": ["MLxtend", "Python", "Pandas", "Jupyter Notebook"],
-      "githubLink": "https://example.com"
+
+      "links": [
+         {
+            "linkTitle": "Kaggle",
+            "link": "Link",
+            "linkLogo": "Logo"
+         },
+         {
+            "linkTitle": "Maven",
+            "link": "Link",
+            "linkLogo": "Logo"
+         },
+         {
+            "linkTitle": "Github",
+            "link": "Link",
+            "linkLogo": "Logo"
+         }
+      ]
    }
 ]
